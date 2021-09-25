@@ -17,7 +17,7 @@ https://git-scm.com/downloads
 1. Now that you have Git and Webstorm installed on your computer and your Github account is set up, let's connect Git to Webstorm. First open up Webstorm, 
 then go to Webstorm’s settings which can be accessed by pressing the (Ctrl+Alt+S).
 
-1. Aftwards, go to Version Control and press Git then choose the location where the git.exe file is located.
+1. Afterwards, go to Version Control and press Git then choose the location where the git.exe file is located.
 
 1. In order to ensure that Git is successfully connected to Webstorm, after completing the previous steps there should be a message that is displayed, “Git Executed Successfully”.
 
@@ -31,7 +31,7 @@ then go to Webstorm’s settings which can be accessed by pressing the (Ctrl+Alt
 
 1. Go back to your Webstorm and open up your terminal and make sure that you are in the folder where your files are located.
 
-1. Use the command “git init” to initialize git in your project.
+1. Use the command “git init” to initialize git in your project folder.
 
 1. Github provides a git link to the repository, which can come in the format of 
 “https://github.com/username/repositoryName.git”. 
@@ -42,30 +42,30 @@ connect your webstorm project to your repository “git remote add origin https:
 
 1. Use the command “git commit -m “message””  to commit the changes that you made to your files.
 
-1. To officially process your files to github use the following command “git push”.
+1. To officially process your files to github use the following command “git push”, if your current branch does not have an upstream branch use the following command to push your files to github "git push --set-upstream origin master".
 
 
 ## Part Two
-- Branch\
-A branch is a copy of a program, which allows for a user to work on without altering the original source code.
+- __Branch__\
+A branch is a copy of a program, which allows for a user to work on a program without altering the original source code.
 - Clone\
 In terms of computing, a clone is a product (hardware or software) that performs in the exact same way as another product. In Github, cloning is to copy all of the content/data from a repository.
 - __Commit__\
 In computing, to commit is to process the current state of code including recent changes to a record history of changes.
 - Fetch\
-To fetch is to retrieve data from a location.
+To fetch is to retrieve data from a location. In Git, to fetch is to retrieve commit history, resources, and files from the remote repository to a local repository.
 - __GIT__\
-Git is an open source software used to track the distribution and movement of a file(s). It is commonly used alongisde platforms such as Github to help manage the location and changes made to programs/data.
+Git is an open source software used to track the distribution and movements of a file(s). It is commonly used alongisde platforms such as Github to help manage the location and changes made to programs/data.
 - __Github__\
 Github is a platform that stores and manages data and information in repositories through the use of Git.
 - Merge\
-To merge is to combine several products/systems into one. In Git, to merge is to integrate/combine several branchs of development into one. This causes for progress made on the various branches to be combined and saved to a repository.
+To merge is to combine several products/systems into one. In Git, to merge is to integrate/combine several branchs of development into one. This causes for progress made on various branches to be combined and saved to a repository.
 - Merge Conflict\
-A merge conflict occurs when products aren't combining seamlessly. In Git, a merge conflict occurs when after attempting to merge several branches Git is unable to fix the differences that the different branches has (1).
+A merge conflict occurs when programs aren't combining seamlessly. In Git, a merge conflict occurs when after attempting to merge several branches Git is unable to fix the differences that the various branches has (1).
 - __Push__\
 To push is to exert force on something. In Git, to push is to process or upload changes in a local repository to a remote repository, this entails uploading recent commit history to your remote repository (2).
 - Pull\
-In Git, to pull is to gather the current data or changes in a remote repository and combines/merges the changes with a local repository(2).
+In Git, to pull is to gather the current data or changes in a remote repository and combines/merges the changes with a local repository (2).
 - __Remote__\
 Remote is the ability to connect to a system through a network link or another source (3).
 - __Repository__\
