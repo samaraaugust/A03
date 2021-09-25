@@ -1,5 +1,5 @@
 # Samara Augustin IS117-001 A03
-
+## Part One
 ### Directions on Using Webstorm/Git/Github
 1. In order to use Webstorm, it must first be downloaded on your computer. 
 To use several of the benefits that Webstorm provides you must have the professional version rather than the community version. 
@@ -43,3 +43,23 @@ connect your webstorm project to your repository “git remote add origin https:
 1. Use the command “git commit -m “message””  to commit the changes that you made to your files.
 
 1. To officially process your files to github use the following command “git push”.
+
+
+## Part Two
+- Branch\
+A branch is a copy of a program, which allows for a user to work on without altering the original source code.
+- Clone\
+In terms of computing, a clone is a product (hardware or software) that performs in the exact same way as another product. In Github, cloning is to copy all of the content/data from a repository.
+- __Commit__\
+In computing, to commit is to process the current state of code including recent changes to a record history of changes.
+- Fetch\
+To fetch is to retrieve data from a location.
+- __GIT__\
+- __Github__\
+- Merge\
+- Merge Conflict\
+- __Push__\
+- Pull\
+- __Remote__\
+- __Repository__\
+A place where information is stored. In terms of Computer Science, a reposity is a place where data/code/information is stored or managed.
