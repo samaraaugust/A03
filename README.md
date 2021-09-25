@@ -55,11 +55,23 @@ In computing, to commit is to process the current state of code including recent
 - Fetch\
 To fetch is to retrieve data from a location.
 - __GIT__\
+Git is an open source software used to track the distribution and movement of a file(s). It is commonly used alongisde platforms such as Github to help manage the location and changes made to programs/data.
 - __Github__\
+Github is a platform that stores and manages data and information in repositories through the use of Git.
 - Merge\
+To merge is to combine several products/systems into one. In Git, to merge is to integrate/combine several branchs of development into one. This causes for progress made on the various branches to be combined and saved to a repository.
 - Merge Conflict\
+A merge conflict occurs when products aren't combining seamlessly. In Git, a merge conflict occurs when after attempting to merge several branches Git is unable to fix the differences that the different branches has (1).
 - __Push__\
+To push is to exert force on something. In Git, to push is to process or upload changes in a local repository to a remote repository, this entails uploading recent commit history to your remote repository (2).
 - Pull\
+In Git, to pull is to gather the current data or changes in a remote repository and combines/merges the changes with a local repository(2).
 - __Remote__\
+Remote is the ability to connect to a system through a network link or another source (3).
 - __Repository__\
-A place where information is stored. In terms of Computer Science, a reposity is a place where data/code/information is stored or managed.
+A place where information is stored. In terms of Computer Science, a repository is a place where data/code/information is stored or managed.
+
+References:
+(1) https://www.gitkraken.com/learn/git/tutorials/how-to-resolve-merge-conflict-in-git#:~:text=What%20is%20a%20Git%20merge%20conflict%3F&text=A%20merge%20conflict%20is%20an,merge%20commits%20without%20your%20help. \
+(2) https://learn.sparkfun.com/tutorials/using-github-to-share-with-sparkfun/all \
+(3) https://www.techopedia.com/definition/23696/remote-computer#:~:text=A%20remote%20computer%20is%20a,is%20used%20to%20access%20it.
